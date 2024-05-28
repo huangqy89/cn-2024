@@ -4,11 +4,11 @@ course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Na
 course_semester: "Fall 2024"
 
 baseurl: "/cn-2024" # the subpath of your site, e.g. /blog/
-url: "http://ourfor.github.io/" # the base hostname & protocol for your site
+url: "https://huangqy89.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Sun Yat-sen University"
 schoolurl: "https://sysu.edu.cn"
-twitter_username: username 
+twitter_username: huangqy89
 
 address: |
     No.135 Xingang Xi Lu,
@@ -51,4 +51,4 @@ defaults:
     values:
       layout: "assignment"
 
-repository: ourfor/cn-2024
+repository: huangqy89/cn-2024
