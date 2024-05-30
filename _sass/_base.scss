@@ -414,11 +414,12 @@ a.tosu {
 .image--cover {
     width: 80px;
     height: 80px;
-    border-radius: 50%;
+    // border-radius: 50%;
     margin-bottom: 10px;
 
-    object-fit: cover;
-    object-position: center right;
+    object-fit: contain;
+    // object-position: center right;
+    object-position: center;
 }
 
 .announcement-box {
