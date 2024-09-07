@@ -2,5 +2,7 @@
 
 <dt><a href="{{ include.href }}"><img class="" src="{{ include.url | prepend: site.baseurl }}" alt="{{ include.caption }}" /></a></dt>
 
+{% if include.caption %}
 <dd>{{ include.caption }}</dd>
+{% endif %}
 </dl>
