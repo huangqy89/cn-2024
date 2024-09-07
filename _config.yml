@@ -1,5 +1,5 @@
 # Site settings
-course_name: Computer Network
+course_name: Computer Networks
 course_description: "The principles and practice of computer networking, with emphasis on the Internet. The structure and components of computer networks, packet switching, layered architectures, TCP/IP, physical layer, error control, window flow control, local area networks (Ethernet, Token Ring; FDDI), network layer, congestion control, quality of service, multicast. Students enrolling in 244A Winter Quarter must have completed 140, or equivalent."
 course_semester: "Fall 2024"
 
