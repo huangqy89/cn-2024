@@ -1,5 +1,6 @@
 {% assign all_events = site.events | concat: site.lectures %}
 {% assign all_events = all_events | concat: site.assignments %}
+{% assign all_events = all_events | concat: site.experiments %}
 
 {% assign events_to_show = "" | split: "" %}
 {% for e in all_events %}
@@ -23,6 +24,8 @@
                 {% include lecture_links.html lecture=n %}
             {% elsif n.type == 'assignment' %}
                 New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
+            {% elsif n.type == 'experiment' %}
+                New Experiment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% else%}
                 {{ n.description }}
             {% endif %}
