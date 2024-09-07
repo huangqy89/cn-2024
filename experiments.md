@@ -1,6 +1,6 @@
 ---
 layout: experiments
-title: Experiment
+title: Experiments
 permalink: /experiments/
 ---
 Describe Final project.

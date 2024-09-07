@@ -16,7 +16,7 @@ items:
   icon_class: fas fa-user-graduate
 
 - url: /experiments/
-  name: Experiment
+  name: Experiments
   icon_class: fas fa-coffee
 
 - url: /materials/
