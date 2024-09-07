@@ -24,8 +24,8 @@
   <link rel="stylesheet" href="{{ "/_css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.course_name }} / {{ site.course_semester }} - {{ site.schoolname }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-<link rel='stylesheet' id='open-sans-css'  href='/static_files/style/open-sans-css.css' type='text/css' media='all' />
-<link href='/static_files/style/titillium.css' rel='stylesheet' type='text/css'>
+<link rel='stylesheet' id='open-sans-css'  href="{{ "/static_files/style/open-sans-css.css" | prepend: site.baseurl }}" type='text/css' media='all' />
+<link href="{{ "/static_files/style/titillium.css" | prepend: site.baseurl }}" rel='stylesheet' type='text/css'>
 
 {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification}}" />{% endif %}
 {% if site.bing_webmastertools_id %}<meta name="msvalidate.01" content="{{ site.bing_webmastertools_id }}" />{% endif %}
