@@ -1,10 +1,10 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
-title: Sample Lecture
-tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/lec.jpg
+date: 2014-09-08
+title: Introduction
+tldr: "Introduction to this course."
+thumbnail: /static_files/presentations/intro.jpg
 links:
-    - url: /static_files/presentations/lec.zip
+    - url: /static_files/presentations/Chapter0-Introduction.pptx
       name: slide
 ---
