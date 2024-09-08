@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2024-05-28T4:00:00+4:30
-title: 'Assignment #2 - Sample Assignment'
+title: 'Assignment #2'
 pdf: /static_files/assignments/asg.pdf
 attachment: /static_files/assignments/asg.zip
 solutions: /static_files/assignments/asg_solutions.pdf
