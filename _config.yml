@@ -1,6 +1,10 @@
 # Site settings
 course_name: Computer Networks
-course_description: "The principles and practice of computer networking, with emphasis on the Internet. The structure and components of computer networks, packet switching, layered architectures, TCP/IP, physical layer, error control, window flow control, local area networks (Ethernet, Token Ring; FDDI), network layer, congestion control, quality of service, multicast. Students enrolling in 244A Winter Quarter must have completed 140, or equivalent."
+course_description: "This course offers an in-depth exploration of computer networks, adopting a top-down approach to present the fundamental concepts and principles. Beginning with application-layer protocols, such as HTTP, FTP, and DNS, the course progressively delves into transport, network, and link-layer mechanisms, including TCP/IP, routing algorithms, and data link technologies. Through this approach, students will gain a holistic understanding of how the Internet functions, from high-level applications to low-level data transmission.
+
+Topics covered include network architecture, packet-switching and circuit-switching,  congestion control, software-defined networks, and wireless networks. The course also emphasizes practical applications of networking concepts through hands-on lab work and problem-solving exercises.
+
+By the end of the course, students will have a comprehensive understanding of both theoretical and practical aspects of modern computer networks, preparing them for advanced study or careers in network administration, cybersecurity, and cloud computing."
 course_semester: "Fall 2024"
 
 baseurl: "/cn-2024" # the subpath of your site, e.g. /blog/
