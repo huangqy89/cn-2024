@@ -7,7 +7,7 @@ pdf: /static_files/assignments/Homework 1.docx
 # solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2024-09-23T23:59:59+08:00
+    date: 2024-09-23T08:00:00+08:00
     description: 'Assignment #1 due'
 ---
 Homework of Chapter 1
