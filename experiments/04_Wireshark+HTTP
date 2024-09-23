@@ -11,11 +11,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title> Experiments - Computer Networks / Fall 2024 </title>
-  <meta name="description" content="Experiments - Computer Networks / Fall 2024">
+  <title> HTTP - Computer Networks / Fall 2024 </title>
+  <meta name="description" content="">
   
   <link rel="stylesheet" href="/cn-2024/_css/main.css">
-  <link rel="canonical" href="https://huangqy89.github.io//cn-2024/experiments/">
+  <link rel="canonical" href="https://huangqy89.github.io//cn-2024/experiments/04_Wireshark+HTTP">
   <link rel="alternate" type="application/rss+xml" title="Computer Networks / Fall 2024 - Sun Yat-sen University" href="https://huangqy89.github.io//cn-2024/feed.xml" />
 <link rel='stylesheet' id='open-sans-css'  href="/cn-2024/static_files/style/open-sans-css.css" type='text/css' media='all' />
 <link href="/cn-2024/static_files/style/titillium.css" rel='stylesheet' type='text/css'>
@@ -104,176 +104,46 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Experiments</h1>
+    <h1 class="post-title">HTTP</h1>
+    <p class="post-meta">Released on Saturday 09/14/2024</p>
   </header>
 
-  <article class="post-content">
-    <p>Computer Networks Laboratory</p>
+  <div>
+    
+    <p style="font-weight: bold">Download
+      
+      
+      
+      
+      
+      [<a href="/static_files/presentations/第三周：Wireshark_HTTP.pptx">slide</a>]
+      
+      [<a href="/static_files/presentations/Wireshark_HTTP_v8.1.doc">word</a>]
+      
+      [<a href="/static_files/presentations/Wireshark_HTTP_trace.zip"></a>]
+      
+    </p>
 
-
-<ul id="archive">
-
-<li class="archiveposturl" style="background: transparent">
-<div class="lecture-container">
+    <div style="color: gray;">
+      <h3>Late Policy</h3>
+      <ul>
     
-    <div class="thumbnail">
-      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('/cn-2024/static_files/presentations/intro.jpg');">
-        <img src="/cn-2024/static_files/presentations/intro.jpg"/>
-      </div>
-    </div>
+    <li>You have free 8 late days.</li>
     
-    <div class="content">
-        <span style="font-weight: bold;">计算机网络实验课程介绍</span><br>
-
-        <strong>tl;dr:</strong> 课程介绍.
-        <br/>
-        <strong>
-        
+    <li>You can use late days for assignments. A late day extends the deadline 24 hours.</li>
     
+    <li>Once you have used all 8 late days, the penalty is 10% for each additional late day.</li>
     
-    [<a title="Download slide" href="
-    
-      /cn-2024/static_files/presentations/第一周：计算机网络实验课程介绍.pptx 
-    ">slide</a>]
-    
-    
-
-        </strong>
-
-        
-        <br/>
-        <div class="markdown-content" style="margin-top: 3px;">
-        
-
-        </div>
-        
-    </div>
-</div>
-</li>
-
-<li class="archiveposturl" style="background: transparent">
-<div class="lecture-container">
-    
-    <div class="thumbnail">
-      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('/cn-2024/static_files/presentations/2024-09-09.jpg');">
-        <img src="/cn-2024/static_files/presentations/2024-09-09.jpg"/>
-      </div>
-    </div>
-    
-    <div class="content">
-        <span style="font-weight: bold;">实验基础1</span><br>
-
-        <strong>tl;dr:</strong> 常用的网络命令
-        <br/>
-        <strong>
-        
-    
-    
-    [<a title="Download slide" href="
-    
-      /cn-2024/static_files/presentations/实验基础1.pptx 
-    ">slide</a>]
-    
-    
-
-        </strong>
-
-        
-        <br/>
-        <div class="markdown-content" style="margin-top: 3px;">
-        
-
-        </div>
-        
-    </div>
-</div>
-</li>
-
-<li class="archiveposturl" style="background: transparent">
-<div class="lecture-container">
-    
-    <div class="thumbnail">
-      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('/cn-2024/static_files/presentations/2024-09-14.jpg');">
-        <img src="/cn-2024/static_files/presentations/2024-09-14.jpg"/>
-      </div>
-    </div>
-    
-    <div class="content">
-        <span style="font-weight: bold;">实验基础2</span><br>
-
-        <strong>tl;dr:</strong> Wireshark软件
-        <br/>
-        <strong>
-        
-    
-    
-    [<a title="Download slide" href="
-    
-      /cn-2024/static_files/presentations/实验基础2.pptx 
-    ">slide</a>]
-    
-    
-
-        </strong>
-
-        
-        <br/>
-        <div class="markdown-content" style="margin-top: 3px;">
-        
-
-        </div>
-        
-    </div>
-</div>
-</li>
-
-<li class="archiveposturl" style="background: transparent">
-<div class="lecture-container">
-    
-    <div class="thumbnail">
-      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('/cn-2024/static_files/presentations/2024-09-23.jpg');">
-        <img src="/cn-2024/static_files/presentations/2024-09-23.jpg"/>
-      </div>
-    </div>
-    
-    <div class="content">
-        <span style="font-weight: bold;">HTTP</span><br>
-
-        <strong>tl;dr:</strong> Wireshark & HTTP
-        <br/>
-        <strong>
-        
-    
-    
-    [<a title="Download slide" href="
-    
-      /cn-2024/static_files/presentations/第三周：Wireshark_HTTP.pptx 
-    ">slide</a>]
-    
-    [<a title="Download word" href="
-    
-      /cn-2024/static_files/presentations/Wireshark_HTTP_v8.1.doc 
-    ">word</a>]
-    
-    [<a title="Download " href="
-    
-      /cn-2024/static_files/presentations/Wireshark_HTTP_trace.zip 
-    "></a>]
-    
-    
-
-        </strong>
-
-        
-    </div>
-</div>
-</li>
-
 </ul>
+    </div>
+  </div>
+
+  <br />
+  <article class="post-content">
+    
   </article>
 
 </div>
-
       </div>
     </div>
 
