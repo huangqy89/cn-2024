@@ -11,7 +11,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title> HTTP - Computer Networks / Fall 2024 </title>
+  <title> FTP - Computer Networks / Fall 2024 </title>
   <meta name="description" content="">
   
   <link rel="stylesheet" href="/cn-2024/_css/main.css">
@@ -104,7 +104,7 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">HTTP</h1>
+    <h1 class="post-title">FTP</h1>
     <p class="post-meta">Released on Monday 09/30/2024</p>
   </header>
 
@@ -116,11 +116,11 @@
       
       
       
-      [<a href="/static_files/presentations/文件传输服务FTP.pptx">slide</a>]
+      [<a href="/static_files/presentations/experiment/文件传输服务FTP.pptx">slide</a>]
       
-      [<a href="/static_files/presentations/1-ftp协议分析实验模板.doc">template</a>]
+      [<a href="/static_files/presentations/experiment/1-ftp协议分析实验模板.doc">template</a>]
       
-      [<a href="/static_files/presentations/Wireshark_FTP_trace.zip">traces</a>]
+      [<a href="/static_files/presentations/experiment/Wireshark_FTP_trace.zip">traces</a>]
       
       [<a href="https://web.ugreen.cloud/web/#/file/a529b3b6c6f548d3911dd9f92c78eae0">submission site</a>]
       
