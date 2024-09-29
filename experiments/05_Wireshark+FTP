@@ -15,7 +15,7 @@
   <meta name="description" content="">
   
   <link rel="stylesheet" href="/cn-2024/_css/main.css">
-  <link rel="canonical" href="https://huangqy89.github.io//cn-2024/experiments/04_Wireshark+FTP">
+  <link rel="canonical" href="https://huangqy89.github.io//cn-2024/experiments/05_Wireshark+FTP">
   <link rel="alternate" type="application/rss+xml" title="Computer Networks / Fall 2024 - Sun Yat-sen University" href="https://huangqy89.github.io//cn-2024/feed.xml" />
 <link rel='stylesheet' id='open-sans-css'  href="/cn-2024/static_files/style/open-sans-css.css" type='text/css' media='all' />
 <link href="/cn-2024/static_files/style/titillium.css" rel='stylesheet' type='text/css'>
@@ -105,7 +105,7 @@
 
   <header class="post-header">
     <h1 class="post-title">HTTP</h1>
-    <p class="post-meta">Released on Monday 09/23/2024</p>
+    <p class="post-meta">Released on Monday 09/30/2024</p>
   </header>
 
   <div>
