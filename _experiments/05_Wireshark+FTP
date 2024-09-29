@@ -1,6 +1,6 @@
 ---
 type: experiment
-date: 2024-09-23
+date: 2024-09-30
 title: HTTP
 tldr: "Wireshark & FTP"
 thumbnail: /static_files/presentations/ftp.jpg
