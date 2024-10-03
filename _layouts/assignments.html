@@ -15,6 +15,9 @@ layout: page
 {% if asg.solutions %}
 &nbsp; <a title="Download solution" href="{{ asg.solutions | prepend: site.baseurl }}"><i class="fas fa-file"></i></a>
 {% endif %}
+{% if asg.graded_assignment %}
+&nbsp; <a title="Graded Assignment" target="_blank" href="{{ asg.graded_assignment }}"><i class="fas fa-sticky-note"></i></a>
+{% endif %}
 </strong> 
       </li>
 {% endfor %}
