@@ -1,6 +1,6 @@
 ---
 layout: experiments
-title: Experiments
+title: Laboratory
 permalink: /experiments/
 ---
 Computer Networks Laboratory

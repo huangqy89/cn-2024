@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2014-09-08
+date: 2024-09-08
 title: Introduction
 tldr: "Introduction to this course."
 thumbnail: /static_files/presentations/intro.jpg

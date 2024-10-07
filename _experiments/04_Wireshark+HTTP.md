@@ -11,4 +11,6 @@ links:
       name: word
     - url: /static_files/presentations/experiment/Wireshark_HTTP_trace.zip
       name: traces
+    - url: /static_files/presentations/experiment/Wireshark_HTTP_solution.pdf
+      name: solution
 ---
