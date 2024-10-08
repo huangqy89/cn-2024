@@ -5,6 +5,8 @@ title: DNS
 tldr: "Wireshark & DNS"
 thumbnail: /static_files/presentations/experiment/dns.jpeg
 links: 
+    - url: /static_files/presentations/experiment/第五周：Wireshark+DNS.doc
+      name: word
     - url: /static_files/presentations/experiment/2-DNS协议分析实验模板.doc
       name: template
     - url: /static_files/presentations/experiment/dns-wireshark-trace.zip
