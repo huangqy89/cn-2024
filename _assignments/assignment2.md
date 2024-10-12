@@ -7,7 +7,7 @@ pdf: /static_files/assignments/Homework 2.docx
 #solutions: /static_files/assignments/Solution1.pdf
 due_event: 
     type: due
-    date: 2024-10-21T08:00:00+08:00
+    date: 2024-10-28T08:00:00+08:00
     description: 'Assignment #2 due'
 ---
 Homework of Chapter 2
