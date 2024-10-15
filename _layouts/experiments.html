@@ -24,6 +24,12 @@ layout: page
         {% include lecture_links.html lecture=experiment %}
         </strong>
 
+        {% if experiment.score_file %}
+        <strong>
+          [<a href="{{experiment.url | prepend: site.baseurl}}">score</a>]
+        </strong>
+        {% endif %}
+        
         {% if experiment.content != '' %}
         <br/>
         <div class="markdown-content" style="margin-top: 3px;">

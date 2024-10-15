@@ -508,3 +508,12 @@ a.tosu {
         border-bottom: 0 !important;
     }
 }
+
+table.score {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+table.score th, table.score td {
+border: 1px solid black;
+}

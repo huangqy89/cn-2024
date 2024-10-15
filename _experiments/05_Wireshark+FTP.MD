@@ -4,6 +4,7 @@ date: 2024-09-30
 title: FTP
 tldr: "Wireshark & FTP"
 thumbnail: /static_files/presentations/experiment/ftp.jpg
+score_file: /static_files/assignments/ftp-score.json.encrypted
 links: 
     - url: /static_files/presentations/experiment/文件传输服务FTP.ppt
       name: slide
