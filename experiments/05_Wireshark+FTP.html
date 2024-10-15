@@ -213,7 +213,6 @@
             });
           })
           .then(data => {
-            console.log(data)
             const res = JSON.parse(new TextDecoder().decode(data))
             const scoreDetail = document.querySelector("#score-detail");
             const table = document.createElement("table");
