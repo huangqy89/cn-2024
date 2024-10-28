@@ -17,9 +17,9 @@ layout: default
             <div class="col col-4">Course Material</div>
         </li>
         
-        {% assign events = site.events | default: [] %}
-        {% assign lectures = site.lectures | default: [] %}
-        {% assign assignments = site.assignments | default: [] %}
+        {% assign events = site.events %}
+        {% assign lectures = site.lectures %}
+        {% assign assignments = site.assignments %}
         {% assign all_assignment_dues = assignments | map: "due_event" | compact %}
 
         {% assign all_events = events | concat: lectures %}

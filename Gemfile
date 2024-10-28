@@ -26,7 +26,11 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
 end
 
 # Performance-booster for watching directories on Windows
-gem 'wdm', '>= 0.1.1' if Gem.win_platform? && RUBY_VERSION < '3.3.0'
+# gem 'wdm', '>= 0.1.1' if Gem.win_platform? && RUBY_VERSION < '3.3.0'
 
 
 gem 'webrick', '~> 1.8'
+
+gem 'base64'
+gem 'bigdecimal'
+gem 'faraday-retry'
