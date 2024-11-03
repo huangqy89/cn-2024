@@ -202,7 +202,7 @@
     document.querySelector("#check-btn")
       .onclick = () => {
         const studentId = document.querySelector("input").value;
-        fetch("/cn-2024static_files/assignments/dns-score.json.encrypted")
+        fetch("/cn-2024/static_files/assignments/dns-score.json.encrypted")
           .then(response => response.arrayBuffer())
           .then(encryptedData => {
             encryptedData = new Uint8Array(encryptedData);
