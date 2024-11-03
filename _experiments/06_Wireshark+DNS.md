@@ -4,6 +4,7 @@ date: 2024-10-07
 title: DNS
 tldr: "Wireshark & DNS"
 thumbnail: /static_files/presentations/experiment/dns/dns.jpeg
+score_file: /static_files/assignments/dns-score.json.encrypted
 links: 
     - url: /static_files/presentations/experiment/dns/第五周：Wireshark+DNS.doc
       name: word
