@@ -14,6 +14,6 @@ links:
       name: traces
     - url: https://web.ugreen.cloud/web/#/file/96382d5d9e1f455a933a5f403fc57bd0
       name: submission site
-    - url: /static_files/presentations/experiment/dns/2-DNS协议分析实验参考答案.pdf
+    - url: /static_files/presentations/experiment/dns/2-DNS协议分析实验参考答案_protected.pdf
       name: solution
 ---
