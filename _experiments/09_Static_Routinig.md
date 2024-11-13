@@ -4,6 +4,7 @@ date: 2024-10-27
 title: 路由实验1：静态路由
 tldr: "静态路由"
 thumbnail: /static_files/presentations/experiment/routing/routing.jpg
+score_file: /static_files/assignments/static-route-score.json.encrypted
 links: 
     - url: /static_files/presentations/experiment/routing/静态路由.pptx
       name: slides
