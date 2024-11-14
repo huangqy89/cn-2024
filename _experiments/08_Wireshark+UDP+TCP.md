@@ -4,7 +4,7 @@ date: 2024-10-21
 title: Transport Layer
 tldr: "Wireshark & UDP & TCP"
 thumbnail: /static_files/presentations/experiment/transport/transport.png
-socre_file: /static_files/assignments/tcp-socre.json.encrypted
+score_file: /static_files/assignments/tcp-socre.json.encrypted
 links: 
     - url: /static_files/presentations/experiment/transport/Wireshark_TCP_v8.1.doc
       name: word
