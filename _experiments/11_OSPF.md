@@ -1,7 +1,7 @@
 ---
 type: experiment
 date: 2024-11-11
-title: 路由协议2： 动态路由协议(单区域OSPF)
+title: 路由实验2： 动态路由协议(单区域OSPF)
 tldr: "单区域OSPF"
 thumbnail: /static_files/presentations/experiment/ospf/ospf.png
 links: 

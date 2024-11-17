@@ -1,7 +1,7 @@
 ---
 type: experiment
 date: 2024-11-17
-title: 路由协议3： 动态路由协议(多区域OSPF)
+title: 路由实验3： 动态路由协议(多区域OSPF)
 tldr: "多区域OSPF"
 thumbnail: /static_files/presentations/experiment/ospf/Hierarchical_OSPF.jpg
 links: 
