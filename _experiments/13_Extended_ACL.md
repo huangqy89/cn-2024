@@ -4,6 +4,7 @@ date: 2024-11-21
 title: 访问列表控制2： 扩展访问列表控制
 tldr: "Extended ACL"
 thumbnail: /static_files/presentations/experiment/acl/acl.jpg
+score_file: /static_files/assignments/eacl-score.json.encrypted
 links: 
     - url: /static_files/presentations/experiment/acl/扩展访问控制列表的配置.ppt
       name: slides
